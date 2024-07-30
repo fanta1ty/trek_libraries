@@ -39,6 +39,7 @@ let package = Package(
       .package(url: "https://github.com/fanta1ty/TAlertView.git", branch: "master"),
       .package(url: "https://github.com/MailCore/mailcore2.git", branch: "master"),
       .package(url: "https://github.com/MrShiY/ObjectMapper.git", branch: "master"),
+      .package(url: "https://github.com/TakeScoop/SwiftyRSA.git", branch: "master"),
     ],
     targets: [
         .target(
@@ -74,6 +75,7 @@ let package = Package(
               .product(name: "FirebaseMessaging", package: "firebase-ios-sdk"),
               .product(name: "FirebaseRemoteConfig", package: "firebase-ios-sdk"),
               .product(name: "ObjectMapper", package: "ObjectMapper"),
+              .product(name: "SwiftyRSA", package: "SwiftyRSA"),
             ]
         ),
     ]
