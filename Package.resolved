@@ -1,5 +1,5 @@
 {
-  "originHash" : "fe90e289238993185a2e68875d8a59b188016fc2f8914051d3d6295746092d6c",
+  "originHash" : "730da749a6dad3f3112768fe6e9acec8b550b4d0d0937f3ba34da7d5ac10ab30",
   "pins" : [
     {
       "identity" : "abseil-cpp-swiftpm",
@@ -130,7 +130,7 @@
     {
       "identity" : "influxdb-client-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/influxdata/influxdb-client-swift",
+      "location" : "https://github.com/influxdata/influxdb-client-swift.git",
       "state" : {
         "revision" : "6f79af75a7958142add2e811dc0a6a6ae6507bd2",
         "version" : "1.7.0"
@@ -265,7 +265,7 @@
     {
       "identity" : "swiftrsa",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/puretears/SwiftRSA",
+      "location" : "https://github.com/puretears/SwiftRSA.git",
       "state" : {
         "revision" : "6e28e2fb4a83289abdc03554663df9b570df2710",
         "version" : "0.1.2"

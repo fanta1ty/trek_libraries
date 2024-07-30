@@ -4,10 +4,10 @@
 import PackageDescription
 
 let package = Package(
-    name: "TrekLibraries",
+    name: "trek_libraries",
     products: [
         .library(
-            name: "TrekLibraries",
+            name: "trek_libraries",
             targets: ["TrekLibraries"]),
     ],
     dependencies: [
