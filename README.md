@@ -17,12 +17,14 @@ To integrate a library using Swift Package Manager, add the following dependency
 dependencies: [
     .package(url: "https://github.com/fanta1ty/trek_libraries.git", branch: "master")
 ]
-
+```
 Then, in the target dependencies, specify the library you want to use:
 
+```
 .target(
     name: "YourTargetName",
     dependencies: [
         .product(name: "LibraryName", package: "trek_libraries")
     ]
 )
+```
