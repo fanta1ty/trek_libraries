@@ -1,5 +1,5 @@
 {
-  "originHash" : "730da749a6dad3f3112768fe6e9acec8b550b4d0d0937f3ba34da7d5ac10ab30",
+  "originHash" : "6546d706ec27cb845473a832c2f745abf46000a718f36dcbc098faf8f8a1dbdf",
   "pins" : [
     {
       "identity" : "abseil-cpp-swiftpm",
@@ -260,15 +260,6 @@
       "state" : {
         "revision" : "1f886cb20fedda14a5ac75efd09bc99c95b43a18",
         "version" : "1.4.1"
-      }
-    },
-    {
-      "identity" : "swiftrsa",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/puretears/SwiftRSA.git",
-      "state" : {
-        "revision" : "6e28e2fb4a83289abdc03554663df9b570df2710",
-        "version" : "0.1.2"
       }
     },
     {
