@@ -75,6 +75,7 @@ let package = Package(
               .product(name: "FirebaseMessaging", package: "firebase-ios-sdk"),
               .product(name: "FirebaseRemoteConfig", package: "firebase-ios-sdk"),
               .product(name: "ObjectMapper", package: "ObjectMapper"),
+              .product(name: "SwiftyRSA", package: "SwiftyRSA"),
             ]
         ),
     ]
