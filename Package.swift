@@ -5,6 +5,9 @@ import PackageDescription
 
 let package = Package(
     name: "trek_libraries",
+    platforms: [
+      .iOS(.v13),
+    ],
     products: [
         .library(
             name: "trek_libraries",
