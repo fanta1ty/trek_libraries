@@ -1,5 +1,5 @@
 {
-  "originHash" : "eb1ab977f0a9da1d421c1ae781c569150dae974353ab12d07d00e2001a245c2a",
+  "originHash" : "6546d706ec27cb845473a832c2f745abf46000a718f36dcbc098faf8f8a1dbdf",
   "pins" : [
     {
       "identity" : "abseil-cpp-swiftpm",
@@ -269,15 +269,6 @@
       "state" : {
         "revision" : "af76cf3ef710b6ca5f8c05f3a31307d44a3c5828",
         "version" : "5.0.2"
-      }
-    },
-    {
-      "identity" : "swiftyrsa",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/TakeScoop/SwiftyRSA.git",
-      "state" : {
-        "branch" : "master",
-        "revision" : "ac3821ac5c98b4dacb4eeb0e4c1518d75c37748d"
       }
     },
     {
