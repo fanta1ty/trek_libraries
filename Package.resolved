@@ -1,5 +1,5 @@
 {
-  "originHash" : "7d6d7328885980df3a197e6370cf7c440a6e3522b0791b5d22920e7673a1e5a6",
+  "originHash" : "1fbbbd9661a98f383a08d688adec467ebcb2da3739fb170fddff367e02a65e0a",
   "pins" : [
     {
       "identity" : "abseil-cpp-swiftpm",
@@ -56,15 +56,6 @@
       }
     },
     {
-      "identity" : "csv.swift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/yaslab/CSV.swift",
-      "state" : {
-        "revision" : "81d2874c51db364d7e1d71b0d99018a294c87ac1",
-        "version" : "2.4.3"
-      }
-    },
-    {
       "identity" : "firebase-ios-sdk",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/firebase/firebase-ios-sdk.git",
@@ -116,24 +107,6 @@
       "state" : {
         "revision" : "4e9bbf2808b8fee444e84a48f5f3c12641987d3e",
         "version" : "1.7.2"
-      }
-    },
-    {
-      "identity" : "gzipswift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/1024jp/GzipSwift",
-      "state" : {
-        "revision" : "7a7f17761c76a932662ab77028a4329f67d645a4",
-        "version" : "5.2.0"
-      }
-    },
-    {
-      "identity" : "influxdb-client-swift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/influxdata/influxdb-client-swift.git",
-      "state" : {
-        "revision" : "6f79af75a7958142add2e811dc0a6a6ae6507bd2",
-        "version" : "1.7.0"
       }
     },
     {
@@ -224,15 +197,6 @@
       "state" : {
         "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
         "version" : "5.7.1"
-      }
-    },
-    {
-      "identity" : "swift-log",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-log.git",
-      "state" : {
-        "revision" : "9cb486020ebf03bfa5b5df985387a14a98744537",
-        "version" : "1.6.1"
       }
     },
     {
