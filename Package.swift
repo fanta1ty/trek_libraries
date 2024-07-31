@@ -27,7 +27,6 @@ let package = Package(
       .package(url: "https://github.com/SDWebImage/SDWebImage.git", from: "5.19.5"),
       .package(url: "https://github.com/zenangst/Blueprints.git", from: "0.13.2"),
       .package(url: "https://github.com/danielgindi/Charts.git", from: "5.1.0"),
-      .package(url: "https://github.com/influxdata/influxdb-client-swift.git", from: "1.7.0"),
       .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "8.15.0"),
 
       .package(url: "https://github.com/fanta1ty/TLog.git", branch: "master"),
@@ -63,8 +62,6 @@ let package = Package(
               .product(name: "DGCharts", package: "Charts"),
               .product(name: "TTouchAnimatedButton", package: "TTouchAnimatedButton"),
               .product(name: "TAlertView", package: "TAlertView"),
-              .product(name: "InfluxDBSwift", package: "influxdb-client-swift"),
-              .product(name: "InfluxDBSwiftApis", package: "influxdb-client-swift"),
               .product(name: "FirebaseAnalytics", package: "firebase-ios-sdk"),
               .product(name: "FirebaseAppDistribution-Beta", package: "firebase-ios-sdk"),
               .product(name: "FirebaseCrashlytics", package: "firebase-ios-sdk"),
