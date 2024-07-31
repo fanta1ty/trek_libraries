@@ -1,5 +1,4 @@
 {
-  "originHash" : "1fbbbd9661a98f383a08d688adec467ebcb2da3739fb170fddff367e02a65e0a",
   "pins" : [
     {
       "identity" : "abseil-cpp-swiftpm",
@@ -254,6 +253,15 @@
       }
     },
     {
+      "identity" : "tpagertabstrip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fanta1ty/TPagerTabStrip.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8d17813da89d65b8ebf5bd10e0369c849668348e"
+      }
+    },
+    {
       "identity" : "tprogresshud",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/fanta1ty/TProgressHUD.git",
@@ -299,5 +307,5 @@
       }
     }
   ],
-  "version" : 3
+  "version" : 2
 }
