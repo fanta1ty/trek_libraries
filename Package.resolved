@@ -1,5 +1,5 @@
 {
-  "originHash" : "6546d706ec27cb845473a832c2f745abf46000a718f36dcbc098faf8f8a1dbdf",
+  "originHash" : "7d6d7328885980df3a197e6370cf7c440a6e3522b0791b5d22920e7673a1e5a6",
   "pins" : [
     {
       "identity" : "abseil-cpp-swiftpm",
@@ -152,15 +152,6 @@
       "state" : {
         "revision" : "a0bc79961d7be727d258d33d5a6b2f1023270ba1",
         "version" : "1.22.5"
-      }
-    },
-    {
-      "identity" : "mailcore2",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/MailCore/mailcore2.git",
-      "state" : {
-        "branch" : "master",
-        "revision" : "7417b2e8dd7e2c028aadb72056e4d1428c0627c4"
       }
     },
     {

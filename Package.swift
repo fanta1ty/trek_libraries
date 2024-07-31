@@ -37,7 +37,6 @@ let package = Package(
       .package(url: "https://github.com/fanta1ty/TTextField.git", branch: "master"),
       .package(url: "https://github.com/fanta1ty/TTouchAnimatedButton.git", branch: "master"),
       .package(url: "https://github.com/fanta1ty/TAlertView.git", branch: "master"),
-      .package(url: "https://github.com/MailCore/mailcore2.git", branch: "master"),
       .package(url: "https://github.com/MrShiY/ObjectMapper.git", branch: "master"),
     ],
     targets: [
@@ -66,7 +65,6 @@ let package = Package(
               .product(name: "TAlertView", package: "TAlertView"),
               .product(name: "InfluxDBSwift", package: "influxdb-client-swift"),
               .product(name: "InfluxDBSwiftApis", package: "influxdb-client-swift"),
-              .product(name: "MailCore2", package: "MailCore2"),
               .product(name: "FirebaseAnalytics", package: "firebase-ios-sdk"),
               .product(name: "FirebaseAppDistribution-Beta", package: "firebase-ios-sdk"),
               .product(name: "FirebaseCrashlytics", package: "firebase-ios-sdk"),
